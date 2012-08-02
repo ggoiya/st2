@@ -1,8 +1,8 @@
 Ext.define("LoginView", {
 	extend:"Ext.Panel",
 	config: {
-		title: "Login",
+		title: "사진필터링",
 		style: "background-color: green; color:white;",
-		html: "loginView"
+		html: "이미지 필터1,2,3,4"
 	}
 });

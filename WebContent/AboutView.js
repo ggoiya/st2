@@ -1,8 +1,8 @@
 Ext.define("AboutView", {
 	extend:"Ext.Panel",
 	config: {
-		title: "About",
+		title: "사진보내기",
 		style: "background-color: brown; color:white;",
-		html: "aboutView"
+		html: "사진보내볼까나"
 	}
 });
